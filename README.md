@@ -7,4 +7,4 @@
 ### Links
 
 - Solution URL: [View Source Code](https://github.com/tayyibGbondo/-NFT-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [View live site here](https://glowing-gelato-049dae.netlify.app/)
