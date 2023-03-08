@@ -4,12 +4,16 @@
 }
 body {
   background-color: hsl(217, 54%, 11%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 }
 main {
   background-color: hsl(216, 50%, 16%);
   width: 100%;
   max-width: 300px;
-  margin: 4% auto 4% auto;
   border-radius: 10px;
 }
 .card-container {
@@ -72,6 +76,7 @@ hr {
 .attribution {
   text-align: center;
   color: white;
+  margin: 20px;
 }
 a {
   color: gold;
