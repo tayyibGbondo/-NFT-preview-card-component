@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: hsl(217, 54%, 11%);
+}
+main {
+  background-color: hsl(216, 50%, 16%);
+  width: 100%;
+  max-width: 300px;
+  margin: 4% auto 4% auto;
+  border-radius: 10px;
+}
+.card-container {
+  padding: 20px;
+}
+.card-container img {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 10px;
+}
+
+.name {
+  color: hsl(0, 0%, 100%);
+  font-size: 19px;
+  font-weight: 700;
+  padding: 15px 0;
+}
+.description {
+  color: hsl(215, 51%, 70%);
+  padding-bottom: 15px;
+  font-size: 18px;
+}
+.action {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 12px;
+}
+.balance {
+  color: hsl(178, 100%, 50%);
+}
+.day {
+  color: hsl(215, 32%, 27%);
+  font-weight: 300;
+}
+.user {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.user h4 {
+  color: white;
+  font-size: 15px;
+}
+.user span {
+  color: hsl(215, 32%, 27%);
+}
+.user img {
+  width: 100%;
+  max-width: 30px;
+  border: white 2px solid;
+  border-radius: 100%;
+}
+hr {
+  border: unset;
+  height: 1px;
+  background-color: white;
+  margin: 10px 0;
+}
+.attribution {
+  text-align: center;
+  color: white;
+}
+a {
+  color: gold;
+}
